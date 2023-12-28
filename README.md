@@ -30,4 +30,4 @@
 👁️ HTML, SASS, CSS, Bootstrap
 and a lot more :D
 
-<h3 align="left">Connect with me:</h3>
+
