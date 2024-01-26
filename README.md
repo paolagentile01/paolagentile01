@@ -7,7 +7,7 @@
 
 <h2>About ME 💬 : </h2>
 
--🌱 I’m currently learning **HTML, CSS, JavaScript, React.js ...** at the Epicode Academy
+-🌱 I’m currently proficient in **HTML, CSS, JavaScript, Bootstrap, React.js, Redux ...**
 
 -👨‍💻 Ask me anything about **Tech and Digital Art**
 
